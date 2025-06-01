@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a game artist learning how to navigate GitHub!
+
 <!--
 **DrAmonn/DrAmonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
